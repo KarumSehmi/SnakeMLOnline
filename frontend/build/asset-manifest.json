@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.619e9ba8.js",
+    "static/media/ort-wasm-simd-threaded.wasm": "/static/media/ort-wasm-simd-threaded.f333c0566f11a0a9e6db.wasm",
+    "index.html": "/index.html",
+    "main.619e9ba8.js.map": "/static/js/main.619e9ba8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.619e9ba8.js"
+  ]
+}
